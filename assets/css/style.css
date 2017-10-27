@@ -133,7 +133,7 @@ body {
 
 .aboutMe {
 	width: 350px;
-	height: 100px;
+	height: 70px;
 	background-color: white;
 	border-bottom: 3px solid grey;
 	display: inline-block;
@@ -221,24 +221,30 @@ input[type=submit] {
 	height: 200px;
 	width: 200px;
 	padding: 10px;
+	position: relative;
 }
+
+
 
 .pong {
 	height: 200px;
 	width: 200px;
 	padding: 10px;
+	position: relative;
 }
 
 .soccerDash {
 	height: 200px;
 	width: 200px;
 	padding: 10px;
+	position: relative;
 }
 
 .catMouse {
 	height: 200px;
 	width: 200px;
 	padding: 10px;
+	position: relative;
 }
 
 .allGames {
