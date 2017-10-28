@@ -1,3 +1,11 @@
+
+body {
+	margin: auto;
+	/*width: 960px;*/
+	height: 1200px;
+	/*background-color: gainsboro;*/
+	background-image: url("../images/stonehaven.png");
+}
 .headr {
 	/*width: 960px;*/
 	height: 100px;
@@ -23,13 +31,7 @@
 	color: gainsboro;
 }
 
-body {
-	margin: auto;
-	/*width: 960px;*/
-	height: 1200px;
-	background-color: gainsboro;
-	background-image: url("assets/images/stonehaven.png");
-}
+
 
 .et {
 	width: 350px;
